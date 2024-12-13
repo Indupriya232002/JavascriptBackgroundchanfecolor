@@ -1,1 +1,11 @@
 # JavascriptBackgroundchanfecolor
+![image](https://github.com/user-attachments/assets/6fccb8af-10fa-44e2-ac83-82b5fb78b5ca)
+![image](https://github.com/user-attachments/assets/6c10851e-d51d-4103-a112-8cfce3abf449)
+![image](https://github.com/user-attachments/assets/15a9d4bd-ec23-4af7-9a9c-614ac2761351)
+![image](https://github.com/user-attachments/assets/6bafa307-72f2-46e5-b3ef-9486d6505bff)
+![image](https://github.com/user-attachments/assets/7c38f42a-1636-437b-80c5-c3b57e909b86)
+![image](https://github.com/user-attachments/assets/3ab3ec32-7847-41d6-b8b4-6e6f9308e53e)
+![image](https://github.com/user-attachments/assets/875d0e76-1d42-40c9-9f71-e1b3616cddb0)
+![image](https://github.com/user-attachments/assets/4d3c2e5b-a485-49fa-9822-c847e4f56446)
+![image](https://github.com/user-attachments/assets/a6ea0a19-03f8-49e1-9a25-e8dd42613356)
+![image](https://github.com/user-attachments/assets/b4620f50-da7a-45ce-8874-2a766d7baeac)
