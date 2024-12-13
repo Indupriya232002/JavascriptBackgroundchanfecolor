@@ -1,4 +1,4 @@
-# JavascriptBackgroundchanfecolor
+# JavascriptBackgroundchangecolor
 ![image](https://github.com/user-attachments/assets/6fccb8af-10fa-44e2-ac83-82b5fb78b5ca)
 ![image](https://github.com/user-attachments/assets/6c10851e-d51d-4103-a112-8cfce3abf449)
 ![image](https://github.com/user-attachments/assets/15a9d4bd-ec23-4af7-9a9c-614ac2761351)
